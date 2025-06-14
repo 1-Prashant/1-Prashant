@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Prashant Pandey
 - 👀 I’m interested in exploring the world and the technologies.
-- 🌱 I’m currently learning C++ and mern stack web dev
+- 🌱 Completed Data Structures using C++ and Machine Learning
+- and currently exploring computer vision and cloud computing
 - 📫 How to reach me :- prashantpandey8891@gmail.com
 - wanna know more then reach me out 😇
 
