@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashant Pandey
+,kas- 👋 Hi, I’m Prashant Pandey
 - 👀 I’m interested in exploring the world and the technologies.
 - 🌱 Completed Data Structures using C++, Machine Learning and framework like FastAPI
 - and currently exploring computer vision and cloud computing
